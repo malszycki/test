@@ -1,0 +1,2 @@
+- Tripartite split-GFP to visualize direct protein interactions [@Zhao2026RNASplicingSystemThatExcises]:
+	- (1) AKAP17A fused to the 10th β-strand of GFP (GFP10); (2) RTCB fused to the 11th β-strand of GFP (GFP11); and (3) β-strands 1–9 of GFP (GFP1–9) in HEK293T cells.

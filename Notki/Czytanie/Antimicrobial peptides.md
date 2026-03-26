@@ -1,0 +1,7 @@
+- some organisms store symbiotic bacteria in specialized cells (bacteriocytes) and use antibacterial peptides elsewhere to prevent the #symbiote from spreading [@Lazzaro2020AntimicrobialPeptidesApplicationInformedEvolution]
+- Antimicrobial peptides (AMPs) are ubiquitous, mostly studied in Amphibians, but human ones are tested in clinics. They are short (10 - 100aa) and evolve quickly by duplication / deletion, but not really by aminoacid substitutions
+- Most common method of action is permeabilization of the bacterial cell wall
+- Some AMPs work in tandem as a coctail: one AMP permeabilizes cell wall, others go in and mess up stuff there
+- Originally were thought to be simple and unspecific, but it seems rather, that organisms express multiple specific AMPs indiscriminatelly to make sure that anything that came in is killed (which makes it appear as if they were unspecific)
+- it seems, that rapid gene loss/duplication is rather adaptive to the changes in microbial pressures, not as thought before enabled by the lack of specificity
+- [[RNA vaccine encoding AMP coctail??]]

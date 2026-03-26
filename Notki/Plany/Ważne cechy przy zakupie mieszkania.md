@@ -1,0 +1,7 @@
+- wentylacja w kuchni, łazience i pokojach
+- okna nie od strony ulicy (chyba że bardzo, bardzo spokojna ulica)
+- balkon albo łatwe wyjście na podwórko
+- nie parter
+- Jasne
+- Najlepsze dzielnice: 
+	- Na pewno nie Mokotów, bo powietrze tu śmierdzi często

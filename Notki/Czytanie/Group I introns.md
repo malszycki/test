@@ -1,0 +1,1 @@
+Not related mechanistically or evolutionarily with [[Splicing|spliceosome]] or [[Group II introns]]. Require exogenous guanosine for splicing (completely different mechanism). Very little about them in [@Irimia2014OriginSpliceosomalIntronsAlternativeSplicing]
